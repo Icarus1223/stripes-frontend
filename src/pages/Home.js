@@ -74,7 +74,7 @@ const Home = () => {
                 <div className="text-[#0024A0] font-Montserrat-Regular px-3 ">
                     <div className="text-3xl lg:text-4xl font-bold mb-2">WHERE YOUR</div>
                     <div className="text-[42px] md:text-5xl lg:text-7xl font-[900] mb-2">FAVORITE</div>
-                    <div className="text-3xl lg:text-4xl font-bold ">HAND HELD BARRITOS ARE</div>
+                    <div className="text-3xl lg:text-3xl font-bold ">HAND HELD BURRITOS ARE</div>
                 </div>
                 <div className="mt-[10px] md:mt-[300px] ml-4">
                     <button className="px-8 mb-4 bg-[#BF0D3D] text-2xl text-white italic rounded-3xl">
